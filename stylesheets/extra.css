@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Anton;
+  src: '../Anton-Regular.tff';
+}
+#edu{
+    margin: 0 0 0.5em;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+}
+
+#peking{
+    margin: 0 0 0;
+}
+
+#sece {
+    margin: 0 0 0;
+}
