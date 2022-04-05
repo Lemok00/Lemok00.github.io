@@ -1,17 +1,106 @@
 @font-face {
-  font-family: Anton;
-  src: '../Anton-Regular.tff';
+  font-family: 'Anton';
+  src: url("https://github.com/Lemok00/Lemok00.github.io/blob/gh-pages/Anton-Regular.ttf");
 }
-#edu{
-    margin: 0 0 0.5em;
+
+#name{
+    margin: -1em 0 0;
     font-weight: bold;
-    font-family: 'Anton', sans-serif;
+    font-size: 4.5em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, sans-serif;
 }
 
-#peking{
-    margin: 0 0 0;
+#mail{
+    margin: -1em 0 0 0;
+    font-weight: bold;
+    font-size: 1.75em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, sans-serif;
 }
 
-#sece {
+#intro{
+    margin: 1em 0 2em 0;
+    font-weight: normal;
+    font-size: 1.2em;
+    color: var(--md-typeset-color);
+    font-family: var(--md-text-font);
+}
+
+#sec{
+    margin: 1em 0 0;
+    font-weight: bold;
+    font-size: 2em;
+    color: var(--md-typeset-color);
+    font-family: Impact, sans-serif;
+}
+
+#university{
     margin: 0 0 0;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--md-typeset-color);
+    font-family: Impact, sans-serif;
+}
+
+#school {
+    margin: 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: Impact, sans-serif;
+}
+
+#description {
+    margin: 0 0 0;
+    color: var(--md-typeset-color);
+}
+
+#date {
+    margin: 0 0 0;
+    color: var(--md-typeset-a-color);
+}
+
+#pre {
+    margin: 1.5em 0 0;
+}
+
+#year {
+    margin: 0.5em 0 0;
+    font-weight: bold;
+    font-size: 2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: Impact, sans-serif;
+}
+
+#paper{
+    margin: 0.5em 0 0 0;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--md-typeset-color);
+    font-family: Impact, sans-serif;
+}
+
+#author{
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: Impact, sans-serif;
+}
+
+#me{
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, sans-serif;
+}
+
+#code{
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, sans-serif;
 }
