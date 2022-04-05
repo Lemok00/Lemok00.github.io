@@ -3,6 +3,10 @@
   src: url("https://github.com/Lemok00/Lemok00.github.io/blob/gh-pages/Anton-Regular.ttf");
 }
 
+#name_div{
+    margin: -1em 0 5em 0;
+}
+
 #name{
     margin: -1em 0 0;
     font-weight: bold;
@@ -17,6 +21,10 @@
     font-size: 1.75em;
     color: var(--md-typeset-a-color);
     font-family: Impact, sans-serif;
+}
+
+#links{
+    margin: -5em 0 0 0;
 }
 
 #intro{
