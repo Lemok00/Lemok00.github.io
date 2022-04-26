@@ -1,0 +1,94 @@
+#zh_name {
+    margin: -1em 0 0;
+    font-weight: bolder;
+    font-size: 4.5em;
+    color: var(--md-typeset-a-color);
+    font-family: STHeiti, sans-serif;
+    letter-spacing: 0.45em
+}
+
+#zh_intro {
+    margin: 0.5em 0 0.5em 0;
+    font-weight: normal;
+    font-size: 1.2em;
+    color: var(--md-typeset-color);
+    font-family: var(--md-text-font);
+}
+
+#zh_sec {
+    margin: 1em 0 0;
+    font-weight: bold;
+    font-size: 2em;
+    color: var(--md-typeset-color);
+    font-family: STHeiti, sans-serif;
+}
+
+#zh_university {
+    margin: 0 0 0;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--md-typeset-color);
+    font-family: STHeiti, sans-serif;
+}
+
+#zh_school {
+    margin: 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: STHeiti, sans-serif;
+}
+
+#zh_description {
+    margin: 0 0 0;
+    color: var(--md-typeset-color);
+}
+
+#date {
+    margin: 0 0 0;
+    color: var(--md-typeset-a-color);
+}
+
+#pre {
+    margin: 1.5em 0 0;
+}
+
+#year {
+    margin: 0.5em 0 0;
+    font-weight: bold;
+    font-size: 2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: Impact, sans-serif;
+}
+
+#paper {
+    margin: 0.5em 0 0 0;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--md-typeset-color);
+    font-family: Impact, sans-serif;
+}
+
+#author {
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-kbd-border-color);
+    font-family: Impact, sans-serif;
+}
+
+#me {
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, STHeiti, sans-serif;
+}
+
+#code {
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--md-typeset-a-color);
+    font-family: Impact, sans-serif;
+}
